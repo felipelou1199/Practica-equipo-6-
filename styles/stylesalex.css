@@ -2,3 +2,8 @@ h1{
     color: red;
     background-color: aqua;
 }
+p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    color: brown;
+}
